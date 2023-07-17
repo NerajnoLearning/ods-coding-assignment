@@ -7,7 +7,7 @@ A new flight reservation system is being commissioned and you are tasked with bu
 
 1. Allow the user to enter a station (`destination` or `origin`) to search flights. Display the results in a table.
 
-2. Provide an auto-suggest feature for station. A user should be able to see flights based on station code or location name as they're typing out the search terms similar to how Google works.
+2. Provide an auto-suggest feature for the station. A user should be able to see flights based on station code or location name as they're typing out the search terms similar to how Google works.
 
    Example: A user wants to select flights to/from Jacksonville. The associated station code is JAX
    
@@ -29,14 +29,20 @@ A zipped CSV file of flights is available in /data/flights.csv. Each row in the 
 
 ### Preferred Tech Stack
 * Backend: Python, node.js, SpringBoot, or whatever you're comfortable with
-* Angular or other frontend framework (React, vue.js, next.js, etc.)
+* Angular or other frontend frameworks (React, vue.js, next.js, etc.)
 * Docker (If you'd like to host it, try hosting it on Firebase or Netlify since there's a free tier with a small db setup)
 
 However, you may use other tech if you are more comfortable with something else. You can use any additional technologies/frameworks/DBs/libraries you would like to.
 
 ### ✅ To submit your solution:
-* Clone this repo and push to a personal github repo and submit the link
+* Clone this repo and push it to a personal GitHub repo and submit the link
 * Please update the README with how to run your app and your tech stack used and anything else that the reviewer may need to get started with your code. If you'd like to mention anything else about your code and logic, please note it here. We will be running your app locally to validate your work.
-* Return your solution within 5 business days, unless other directions provided.
+* Return your solution within 5 business days, unless other directions are provided.
 * Feel free to ask questions at any time. Questions are welcome!
 * Have fun with it! Your application can be as simple or complex as possible.
+
+## Solution Suggestion
+* React for frontend
+* Node for the backend
+* DB === ?
+* Dockerize when I get done
