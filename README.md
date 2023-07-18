@@ -10,11 +10,11 @@ A new flight reservation system is being commissioned and you are tasked with bu
 2. Provide an auto-suggest feature for the station. A user should be able to see flights based on station code or location name as they're typing out the search terms similar to how Google works.
 
    Example: A user wants to select flights to/from Jacksonville. The associated station code is JAX
-   
+
        Case 1: User enters the keywords: Jack --> The user is presented with a list of suggestion(s)
        Case 2: User enters the keywords: Jackson --> The user is presented with a list of suggestion(s)
        Case 3: User enters the keywords: Jax --> The user is presented with a list of suggestion(s)
-   
+
 3. Provide two RESTful endpoints supporting the functionality listed in steps 1 and 2.
 
 4. You can be creative with this as however you'd like
@@ -46,3 +46,4 @@ However, you may use other tech if you are more comfortable with something else.
 * Node for the backend
 * DB === ?
 * Dockerize when I get done
+* 
