@@ -4,7 +4,7 @@ import InputBox from '../inputBox';
 
 describe('InputBox', () => {
   const inputAutofill = {
-    JFK: 'John F. Kennedy International Airport',
+    BNA: 'Nashville',
     LAX: 'Los Angeles International Airport',
     SFO: 'San Francisco International Airport',
     ORD: 'O\'Hare International Airport',

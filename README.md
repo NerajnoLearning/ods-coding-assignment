@@ -41,9 +41,12 @@ However, you may use other tech if you are more comfortable with something else.
 * Feel free to ask questions at any time. Questions are welcome!
 * Have fun with it! Your application can be as simple or complex as possible.
 
-## Solution Suggestion
-* React for frontend
-* Node for the backend
-* DB === ?
-* Dockerize when I get done
-* 
+## Solution So Far
+* Tech Stack : React via vite
+* Start Process : - Clone or download
+                  - Navigate to plight and `run npm install`
+                  - to start run `npm run dev`
+
+Need still to do : - style
+             - decouple and have a front and backend
+             - host via AWS
