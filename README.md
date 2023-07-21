@@ -43,10 +43,13 @@ However, you may use other tech if you are more comfortable with something else.
 
 ## Solution So Far
 * Tech Stack : React via vite
-* Start Process : - Clone or download
-                  - Navigate to plight and `run npm install`
-                  - to start run `npm run dev`
+* Start Process :
+- [ ] Clone or download
+- [ ] Navigate to plight and `run npm install`
+- [ ] To start run `npm run dev`
 
-Need still to do : - style
-             - decouple and have a front and backend
-             - host via AWS
+Need still to do : 
+- [ ] Style
+- [ ] Decouple and have a front and backend
+- [ ] Host via AWS
+- [ ] Fix tests
